@@ -1,0 +1,55 @@
+{
+   "train name": "TRA578 N",
+   "description": "just a train test",
+   "credit": "hansy2577b",
+   
+   "train option": {
+      "simple brake":true,
+      "speed":1.7,
+      "power on?":true,
+      "train sound type":1,
+      "ambiance speed pitch":0.02,
+      "editor croquis?":false
+   },
+   
+   "body": {
+      "body":[["body",100,10,1.4]],
+      "speed counter":["na",{"x":315, "y":430, "scale":1}],
+      "button": {
+         "doors open/close": [["button_doors_1",530,50,1],["button_doors_3",550,150,1]],
+         "pre-closing doors": false,
+
+         "AWS":["button_light",{"x":110, "y":424, "scale":1}],
+         
+         "brake up":false,
+         "brake dows":false,
+         
+         "tension up": ["button_tension_up",200,410,1],
+         "tension dows": ["button_tension_dows",400,420,1],
+         
+         "horn1": ["button_horn1",145,410,1],
+         "horn2":false,
+         
+         "interior light": false,
+         "light3":false,
+         "light2":false,
+         "light1": ["button_light",480,424,1]
+      }
+   },
+   
+   "sound": {
+      "motor": {
+         "ambiance1": ["sound/train_ambiance1", { "volume": 1 }],
+         "ambiance2": ["sound/ambiance2", { "volume": 1 }],
+         
+         "neutre1": ["sound/ambiance4",{ "volume": 0.5 }]
+      },
+      "horn1": [false, { "volume": 1 }],
+      "horn2": [false, { "volume": 1 }],
+      "AWS": ["sound/pre-doors", { "volume": 0.4 }],
+      "click": "sound/button-click",
+      "doors open/close": ["sound/close-door", "sound/close-door"],
+      "pre-closing doors": ["sound/pre-doors", { "volume": 0.6 }]
+   }
+   
+}
