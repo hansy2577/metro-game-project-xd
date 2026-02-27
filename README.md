@@ -13,6 +13,7 @@ i made it because i like 2D game but I like drive from the driver's cab to so i 
 - [ ] custom menu colors
 - [ ] octimisation
 - [ ] add more train/maps/ligne
+- [ ] extension system
 
 # other
 Please help this little project by playing and suggesting mechanics,report bugs, etc... it would be appreciate :>, <br>| the game is still a W.I.P
