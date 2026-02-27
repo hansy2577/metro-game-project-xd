@@ -1,11 +1,13 @@
 # H.TS-apha 
 2D <strong>H</strong>.engine
 <strong>T</strong>ransport
-<strong>S</strong>imulations version beta
+<strong>S</strong>imulations version bêta
+
+play [here](https://mmmmmmm.edgeone.app/)
 
 # description 
-just a metro/train game i made inspired <a href="https://pmdapp.fr" >paris metro driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other...<br>
-i made it because i like 2D game but I like drive from the driver's cab to so i made this
+just a metro/train game i made inspired <a href="https://pmdapp.fr" >paris metro driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other.. -.<br>
+i made it because i like 2D game but I like drive from the driver's cab to so i made this in js.
 
 # think i have to do :
 - [x] playable on phone/pc
