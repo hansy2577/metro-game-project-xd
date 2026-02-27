@@ -9,7 +9,7 @@
 # description
 oh hi ! and welcome to H.TS ade by hansy2577b
 it a Train, metro, tram and bus (in future if it possible) simulation , the game is in 2D and developed in JavaScript HTML 
-inspired <a href="https://pmdapp.fr" >paris metro driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other.. -.<br>
+inspired <a href="https://pmdapp.fr" >Paris Metro Driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other.. -.<br>
 i made it because i like 2D game but I drive from the driver's cab to so i made this in js.
 
 # how to play ?:
