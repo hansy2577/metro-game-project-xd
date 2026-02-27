@@ -10,7 +10,7 @@ play [here](https://mmmmmmm.edgeone.app/)
 oh hi ! and welcome to H.TS ade by hansy2577b
 it a Train, metro, tram and bus (in future if it possible) simulation , the game is in 2D and developed in JavaScript HTML 
 inspired <a href="https://pmdapp.fr" >paris metro driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other.. -.<br>
-i made it because i like 2D game but I like drive from the driver's cab to so i made this in js.
+i made it because i like 2D game but I drive from the driver's cab to so i made this in js.
 
 # how to play ?:
 When you start ( before in game ) , you just have to choose your map, your line, and your train, after that selecte <play> button
@@ -34,4 +34,4 @@ For how to drive the train ,depends the train you've chosen. You Just have to cl
 - [ ] extension system
 
 # other
-Please help this little project by playing and suggesting mechanics,report bugs, etc... it would be appreciate :>, <br>| the game is still a W.I.P
+Please help this little project by playing and suggesting mechanics,report bugs, etc... it would be appreciate :>, <br>• the game is still a W.I.P
