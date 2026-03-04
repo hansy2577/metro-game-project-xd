@@ -1,0 +1,7 @@
+body {
+   font-family: TRADER;
+}
+
+@font-face {
+   font-family: TRADER; src: url('main/defaut-font.ttf'); 
+}
