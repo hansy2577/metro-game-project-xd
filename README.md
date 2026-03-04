@@ -6,16 +6,23 @@
 <strong>T</strong>ransport
 <strong>S</strong>imulations version bêta
 
-# description
+<br>
+<br>
+
+# main :
+## description
 oh hi ! and welcome to H.TS ade by hansy2577b
 it a Train, metro, tram and bus (in future if it possible) simulation , the game is in 2D and developed in JavaScript HTML 
 inspired <a href="https://pmdapp.fr" >Paris Metro Driver</a> , <a href="https://www.openrails.org/" >Open Rail</a> and other.. -.<br>
 i made it because i like 2D game but I drive from the driver's cab to so i made this in js.
 
-# where to play it ?:
+## where to play it ?:
 
 play [here ! ](https://mmmmmmm.edgeone.app/) 
 >the link name is temporary.
+
+<br>
+<br>
 
 # in game :
 ## how to play ?:
@@ -31,13 +38,14 @@ when you arrive the GUI work like that :<br>
 ## how drive a train ?: 
 how drive the train ?,this depends the train you've chosen but i fast !,you just have to click on the button <img width="20" height="20" alt="?" src="https://github.com/user-attachments/assets/e5a00c21-b5e7-441f-9551-46a39901e85e" />
  see what's is explained !. ( the controls are quite simple )
-
+<br>
+<br>
 # other... :
 ## think i have to do :
 - [x] playable on phone/pc
 - [ ] fixe bug
 - [ ] custom menu colors
-- [ ] octimisation
+- [X] octimisation
 - [ ] add more train/maps/ligne
 - [ ] extension system
 
