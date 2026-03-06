@@ -16,7 +16,7 @@ function makeLocalAnim(name,animScr,animLength) {
     thing.style.visibility = "hidden";
     thing.src = animScr + i + ".png";
     
-    console.log(name + i + " | "+L+" create")
+    console.log(name + i + " | "+animScr+" create")
   }
 }
 
